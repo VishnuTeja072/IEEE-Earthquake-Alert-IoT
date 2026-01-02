@@ -1,0 +1,15 @@
+@INPROCEEDINGS{10544248,
+  author={Teja, N. Vishnu and Akshay, S. P. and Khaleed, K. Abu and Kumar, C. Santan and Manoj Kumar, G. P. and Bhavadharini, R. M.},
+  booktitle={2024 10th International Conference on Communication and Signal Processing (ICCSP)},
+  title={An Earthquake Alert System using Internet of Things},
+  year={2024},
+  pages={1621--1626},
+  doi={10.1109/ICCSP60870.2024.10544248},
+  publisher={IEEE}
+}
+
+N. V. Teja, S. P. Akshay, K. A. Khaleed, C. S. Kumar, G. P. Manoj Kumar, and R. M. Bhavadharini,
+"An Earthquake Alert System using Internet of Things,"
+2024 10th International Conference on Communication and Signal Processing (ICCSP),
+Melmaruvathur, India, 2024, pp. 1621–1626.
+DOI: 10.1109/ICCSP60870.2024.10544248
